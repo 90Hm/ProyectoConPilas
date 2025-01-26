@@ -7,7 +7,7 @@ namespace Semana7
     class ProgramaBalanceo
     {
         // Método de inicio del programa. Se puede renombrar a Main si es necesario.
-        public static void Iniciar(string[] args) //En caso no se inicie el programa cambiar la palabra "Iniciar" por "Main"
+        public static void Iniciar(string[] args) // En caso no se inicie el programa cambiar la palabra "Iniciar" por "Main"
         {
             Ejecutar();
         }
@@ -15,8 +15,8 @@ namespace Semana7
         // Método que ejecuta la lógica principal del programa
         public static void Ejecutar()
         {
-            // Definición de la expresión a verificar
-            string expresion = "{7+(8*5)-[(9-7)+(4+1)]}";
+            // Definición de una nueva expresión a verificar
+            string expresion = "[{(4+3)*7}+(5/2)]-{8+(6*3)}";
             // Verificación del balanceo de la expresión y salida del resultado
             Console.WriteLine(VerificarBalanceo(expresion) ? "La fórmula está balanceada." : "La fórmula no está balanceada.");
         }

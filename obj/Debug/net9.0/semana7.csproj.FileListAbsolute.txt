@@ -12,3 +12,4 @@ C:\Users\BRAYAN\Downloads\semana7\semana7\obj\Debug\net9.0\refint\semana7.dll
 C:\Users\BRAYAN\Downloads\semana7\semana7\obj\Debug\net9.0\semana7.pdb
 C:\Users\BRAYAN\Downloads\semana7\semana7\obj\Debug\net9.0\semana7.genruntimeconfig.cache
 C:\Users\BRAYAN\Downloads\semana7\semana7\obj\Debug\net9.0\ref\semana7.dll
+C:\Users\BRAYAN\Downloads\semana7\semana7\obj\Debug\net9.0\semana7.sourcelink.json
